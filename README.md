@@ -42,13 +42,37 @@ The Power BI dashboard provides an interactive analysis of sales, profit, orders
 
 ## 🛠️ Tools & Technologies
 
-* **Microsoft Excel**
-* **Microsoft Power BI**
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Dashboard Design
-* Data Analysis & Visualization
+* **Microsoft Excel** – Data analysis, PivotTables, charts, slicers, and dashboard creation
+* **Microsoft Power BI** – Interactive data visualization and dashboard development
+* **Excel / Superstore Dataset** – Source data for sales, profit, orders, products, categories, regions, and customer segments
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI                     |         Value |
+| ----------------------- | ------------: |
+| **Total Sales**         | ₹22,97,200.86 |
+| **Total Profit**        |  ₹2,86,397.02 |
+| **Total Orders**        |         5,009 |
+| **Profit Margin**       |        12.47% |
+| **Average Order Value** |       ₹458.61 |
+
+---
+
+## 🔍 Analysis Performed
+
+The project analyzes Superstore business performance across multiple dimensions:
+
+* Sales performance by **Region**
+* Profit performance by **Region**
+* Sales performance by **Category**
+* Profit performance by **Category**
+* Sales by **Customer Segment**
+* Monthly **Sales & Profit Trends**
+* **Top 5 Products by Sales**
+* Overall sales, profit, orders, profit margin, and average order value
+
 
 ---
 
