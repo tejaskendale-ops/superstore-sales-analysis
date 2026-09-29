@@ -22,6 +22,24 @@ The analysis focuses on understanding:
 
 ---
 
+## 📊 Dashboard Preview
+
+### 🟦 Excel Dashboard
+
+The Excel dashboard provides an interactive overview of Superstore sales and profit performance, including customer segments, product categories, regions, and key business KPIs.
+
+![Excel Dashboard](Excel%20Dashboard.png)
+
+---
+
+### 🟩 Power BI Dashboard
+
+The Power BI dashboard provides an interactive analysis of sales, profit, orders, profit margin, average order value, monthly trends, regional performance, product performance, categories, and customer segments.
+
+![Power BI Dashboard](Power%20BI%20Dashboard.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Excel**
@@ -133,11 +151,3 @@ The objective of this project is to transform raw Superstore sales data into mea
 
 Computer Science Engineering Graduate
 Aspiring Data Analyst
-
-## 📊 Dashboard Preview
-
-### Excel Dashboard
-![Excel Dashboard](Excel%20Dashboard%281%29.png)
-
-### Power BI Dashboard
-![Power BI Dashboard](Power%20BI%20Dashboard%281%29.png)
