@@ -204,6 +204,7 @@ The dashboards allow users to explore business performance across **regions, cat
 **Tejas Kendale**
 
 Computer Science Engineering Graduate
+
 **Aspiring Data Analyst**
 
 ### Skills Demonstrated
