@@ -1,24 +1,38 @@
-# Superstore Sales & Profit Analysis
+# 📊 Superstore Sales & Profit Analysis
 
 A data analytics project built using **Microsoft Excel and Power BI** to analyze Superstore sales, profit, orders, customer segments, product categories, and regional performance.
+
+The project transforms Superstore sales data into interactive dashboards and business-focused insights using **Excel and Power BI**.
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes Superstore sales data and presents the results through interactive dashboards created in **Excel and Power BI**.
+The objective of this project is to analyze Superstore business performance across different dimensions and present the results through interactive dashboards.
 
-The analysis focuses on understanding:
+The analysis covers:
 
-* Overall sales performance
-* Overall profitability
-* Customer segment performance
-* Category-wise sales and profit
-* Regional sales performance
-* Regional profit performance
+* Overall Sales Performance
+* Overall Profitability
+* Customer Segment Performance
+* Category-wise Sales & Profit
+* Regional Sales Performance
+* Regional Profit Performance
+* Monthly Sales & Profit Trends
+* Top Products by Sales
 * Average Order Value
 * Profit Margin
-* Total number of orders
+* Total Orders
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool                   | Purpose                                                                                           |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| **Microsoft Excel**    | Data analysis, PivotTables, charts, slicers, KPI reporting and dashboard creation                 |
+| **Microsoft Power BI** | Interactive data visualization, KPI analysis and business dashboard development                   |
+| **Superstore Dataset** | Source data containing sales, profit, orders, products, categories, regions and customer segments |
 
 ---
 
@@ -26,29 +40,19 @@ The analysis focuses on understanding:
 
 ### 🟦 Excel Dashboard
 
-The Excel dashboard provides an interactive overview of Superstore sales and profit performance, including customer segments, product categories, regions, and key business KPIs.
+The Excel dashboard provides an interactive overview of Superstore sales and profitability using KPIs, charts and slicers.
 
 ![Excel Dashboard](Excel%20Dashboard.png)
 
----
-
 ### 🟩 Power BI Dashboard
 
-The Power BI dashboard provides an interactive analysis of sales, profit, orders, profit margin, average order value, monthly trends, regional performance, product performance, categories, and customer segments.
+The Power BI dashboard provides an interactive business intelligence view covering sales, profit, orders, profit margin, average order value, monthly trends, regional performance, product performance, categories and customer segments.
 
 ![Power BI Dashboard](Power%20BI%20Dashboard.png)
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* **Microsoft Excel** – Data analysis, PivotTables, charts, slicers, and dashboard creation
-* **Microsoft Power BI** – Interactive data visualization and dashboard development
-* **Excel / Superstore Dataset** – Source data for sales, profit, orders, products, categories, regions, and customer segments
-
----
-
-## 📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators
 
 | KPI                     |         Value |
 | ----------------------- | ------------: |
@@ -62,79 +66,15 @@ The Power BI dashboard provides an interactive analysis of sales, profit, orders
 
 ## 🔍 Analysis Performed
 
-The project analyzes Superstore business performance across multiple dimensions:
+### 👥 Customer Segment Analysis
 
-* Sales performance by **Region**
-* Profit performance by **Region**
-* Sales performance by **Category**
-* Profit performance by **Category**
-* Sales by **Customer Segment**
-* Monthly **Sales & Profit Trends**
-* **Top 5 Products by Sales**
-* Overall sales, profit, orders, profit margin, and average order value
-
-
----
-
-## 📊 Excel Dashboard
-
-The Excel dashboard provides an interactive view of Superstore sales and profitability.
-
-### Key Performance Indicators
-
-| KPI                 |         Value |
-| ------------------- | ------------: |
-| Total Sales         | ₹22,97,200.86 |
-| Total Profit        |  ₹2,86,397.02 |
-| Average Order Value |       ₹458.61 |
-| Profit Margin       |        12.47% |
-| Total Orders        |         5,009 |
-
-### Dashboard Visualizations
-
-The Excel dashboard includes:
-
-* **Sales by Customer Segment**
-* **Profit by Category**
-* **Sales by Category**
-* **Sales by Region**
-* **Profit by Region**
-
-Interactive slicers are available for:
-
-* Region
-* Category
-* Segment
-
----
-
-## 📈 Power BI Dashboard
-
-A Power BI version of the project was also created to provide an interactive business intelligence view of the Superstore data.
-
-The Power BI project focuses on:
-
-* Sales analysis
-* Profit analysis
-* Category performance
-* Regional performance
-* Customer segment analysis
-* KPI monitoring
-* Interactive data exploration
-
----
-
-## 🔍 Key Analysis Areas
-
-### Customer Segment Analysis
-
-Sales are analyzed across:
+Sales performance is analyzed across:
 
 * Consumer
 * Corporate
 * Home Office
 
-### Category Analysis
+### 🏷️ Category Analysis
 
 Sales and profit are analyzed across:
 
@@ -142,7 +82,7 @@ Sales and profit are analyzed across:
 * Office Supplies
 * Technology
 
-### Regional Analysis
+### 🌎 Regional Analysis
 
 Sales and profit are analyzed across:
 
@@ -151,6 +91,63 @@ Sales and profit are analyzed across:
 * South
 * West
 
+### 📅 Monthly Trend Analysis
+
+The Power BI dashboard includes a monthly **Sales & Profit Trend** to understand how performance changes throughout the year.
+
+### 🏆 Product Analysis
+
+The Power BI dashboard includes a **Top 5 Products by Sales** visualization to identify products contributing the highest sales.
+
+---
+
+## 📊 Excel Dashboard Features
+
+The Excel dashboard includes:
+
+* **Sales by Customer Segment**
+* **Profit by Category**
+* **Sales by Category**
+* **Sales by Region**
+* **Profit by Region**
+* KPI cards for key business metrics
+
+### Interactive Slicers
+
+The dashboard provides interactive filters for:
+
+* **Region**
+* **Category**
+* **Segment**
+
+These slicers allow users to explore the dashboard based on selected business dimensions.
+
+---
+
+## 📈 Power BI Dashboard Features
+
+The Power BI dashboard provides an interactive analysis of:
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Profit Margin
+* Average Order Value
+* Profit by Category
+* Profit by Region
+* Sales by Region
+* Sales by Category
+* Sales by Customer Segment
+* Monthly Sales & Profit Trend
+* Top 5 Products by Sales
+
+The dashboard also includes interactive filters for:
+
+* Order Date
+* Region
+* Category
+* Segment
+
 ---
 
 ## 📁 Project Files
@@ -158,14 +155,47 @@ Sales and profit are analyzed across:
 | File                                    | Description                              |
 | --------------------------------------- | ---------------------------------------- |
 | `Superstore_Sales_Analysis.xlsx`        | Excel analysis and interactive dashboard |
-| `Excel-Power BI project Dashboard.pbix` | Power BI project                         |
-| `Sample-Superstore.xlsx`                | Superstore dataset                       |
+| `Excel-Power BI project Dashboard.pbix` | Power BI dashboard project               |
+| `Sample-Superstore.xlsx`                | Superstore source dataset                |
+| `Excel Dashboard.png`                   | Excel dashboard preview                  |
+| `Power BI Dashboard.png`                | Power BI dashboard preview               |
 
 ---
 
 ## 🎯 Project Objective
 
-The objective of this project is to transform raw Superstore sales data into meaningful business insights using **Excel and Power BI**, while demonstrating practical skills in data analysis, dashboard creation, KPI reporting, and data visualization.
+The main objective of this project is to transform raw Superstore sales data into meaningful business information using **Excel and Power BI**.
+
+This project demonstrates practical experience in:
+
+* Data Analysis
+* Data Visualization
+* Dashboard Development
+* KPI Reporting
+* Business Performance Analysis
+* Interactive Data Exploration
+
+---
+
+## 💡 Key Business Metrics
+
+The analysis provides a consolidated view of the business through important metrics such as:
+
+* **₹22.97L Total Sales**
+* **₹2.86L Total Profit**
+* **5,009 Total Orders**
+* **12.47% Profit Margin**
+* **₹458.61 Average Order Value**
+
+These metrics provide a high-level view of overall sales and profitability performance.
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates how raw sales data can be transformed into **interactive and easy-to-understand dashboards** using Excel and Power BI.
+
+The dashboards allow users to explore business performance across **regions, categories, customer segments, products and time**, making the data easier to analyze and interpret.
 
 ---
 
@@ -174,4 +204,8 @@ The objective of this project is to transform raw Superstore sales data into mea
 **Tejas Kendale**
 
 Computer Science Engineering Graduate
-Aspiring Data Analyst
+**Aspiring Data Analyst**
+
+### Skills Demonstrated
+
+**Excel • Power BI • Data Analysis • Data Visualization • Dashboard Development • KPI Reporting**
